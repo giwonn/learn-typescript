@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "allowJs": true, // 프로젝트에 자바스크립트 파일을 작성하는 것을 허용하겠다.
+    "checkJs": true, // 타입스크립트의 타입체크 기능을 자바스크립트에서 사용하겠다.
+    "noImplicitAny": true // any를 할당하지 않겠다.(우리가 직접 최소한 any라는 타입이라도 명시해주어야 한다!)
+  }
+}
